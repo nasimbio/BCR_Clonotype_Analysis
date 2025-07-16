@@ -10,7 +10,6 @@ This analysis extracts and summarizes BCR clonotype information from 10x Genomic
 - `all_contig_annotations.csv` to identify and separate immunoglobulin heavy (IGH), kappa (IGK), and lambda (IGL) chains
 - `clonotypes.csv` to quantify and visualize clonotype frequency and chain usage
 
-The results help characterize the diversity and dominance of B cell clones and light chain pairing within the sample.
 
 ---
 
